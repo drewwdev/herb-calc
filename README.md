@@ -22,7 +22,7 @@ OSRS Herb Calculator is a command-line application written in C# that helps Old 
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/osrs-herb-calculator.git
+git clone https://github.com/your-username/herb-calc.git
 cd osrs-herb-calculator
 dotnet build
 dotnet run
