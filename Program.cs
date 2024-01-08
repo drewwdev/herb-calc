@@ -73,20 +73,6 @@ class Program
     static readonly Dictionary<string, int> ItemNameToIdMap =
         new()
         {
-            { "Guam leaf", 249 },
-            { "Marrentill", 251 },
-            { "Tarromin", 253 },
-            { "Harralander", 255 },
-            { "Ranarr weed", 257 },
-            { "Toadflax", 2998 },
-            { "Irit leaf", 259 },
-            { "Avantoe", 261 },
-            { "Kwuarm", 263 },
-            { "Snapdragon", 3000 },
-            { "Cadantine", 265 },
-            { "Lantadyme", 2481 },
-            { "Dwarf weed", 267 },
-            { "Torstol", 269 },
             { "Guam seed", 5291 },
             { "Marrentill seed", 5292 },
             { "Tarromin seed", 5293 },
@@ -178,12 +164,9 @@ class Program
         string formattedPotionName = potion + "(3)";
         ;
 
-        // get seed id from name
         int seedId = ItemNameToIdMap[seed];
-        // get potion id from name
         int potionId = ItemNameToIdMap[formattedPotionName];
 
-        // Fetch live GE prices for seed, and potion
         int seedPrice = GetItemPrice(seedId);
         int potionPrice = GetItemPrice(potionId);
 
