@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>herb-calc</id>
+    <version>1.0.0</version>
+    <authors>herb-calc</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+        <dependency id="RestSharp" version="110.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/drew/Projects/herb-calc/bin/Release/net7.0/herb-calc.runtimeconfig.json" target="lib/net7.0/herb-calc.runtimeconfig.json" />
+    <file src="/Users/drew/Projects/herb-calc/bin/Release/net7.0/herb-calc.dll" target="lib/net7.0/herb-calc.dll" />
+  </files>
+</package>
