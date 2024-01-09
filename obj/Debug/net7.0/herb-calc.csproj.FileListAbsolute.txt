@@ -15,4 +15,3 @@
 /Users/drew/Projects/herb-calc/bin/Debug/net7.0/RestSharp.dll
 /Users/drew/Projects/herb-calc/obj/Debug/net7.0/herb-calc.csproj.AssemblyReference.cache
 /Users/drew/Projects/herb-calc/obj/Debug/net7.0/herb-calc.csproj.CopyComplete
-/Users/drew/Projects/herb-calc/bin/Debug/net7.0/Newtonsoft.Json.dll

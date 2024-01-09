@@ -7,7 +7,6 @@
     <description>Package Description</description>
     <dependencies>
       <group targetFramework="net7.0">
-        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
         <dependency id="RestSharp" version="110.2.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>

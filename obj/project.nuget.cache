@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "Kqu6BGoDZSsoGVlUu88O/H1ta0FithJUDctQyExDr3it78Ct+DWjes/PLjEbWX3C5u3GGg4CGpPUjPZmgx63Mg==",
+  "dgSpecHash": "M5U5ybA3zTjZvYsDFbU0W5bitBIry5U0j/rWOBdWnDeMimrynSjQnfA2rpkYvh6xz9l26JVISBvf9uGBDM9Byg==",
   "success": true,
   "projectFilePath": "/Users/drew/Projects/herb-calc/herb-calc.csproj",
   "expectedPackageFiles": [
-    "/Users/drew/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/drew/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
     "/Users/drew/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/drew/.nuget/packages/system.text.json/7.0.2/system.text.json.7.0.2.nupkg.sha512"
